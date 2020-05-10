@@ -1,0 +1,74 @@
+body {
+    background-color: #015F74;
+}
+
+.navbar-brand {
+    font-family: viga;
+    font-size: 30px;
+    color: white !important;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+    font-family: viga;
+    color: white !important;
+}
+
+.gambar img {
+    width: 500px;
+    height: 500px;
+    margin-top: 4%;
+    border-radius: 20px;
+    animation: 1s ease;
+}
+
+.gambar h3 {
+    font-family: viga;
+    text-transform: uppercase;
+    font-size: 50px;
+    color: white;
+    margin-top: -34%;
+    margin-left: 50%;
+}
+
+.gambar h3 span {
+    color: #062F36;
+}
+
+.gambar a {
+    text-decoration: none;
+    font-family: viga;
+    font-size: 20px;
+    color: white;
+}
+
+.tombol {
+    width: 10%;
+    border-radius: 20px;
+}
+
+.gam-but {
+    display: block;
+    margin-left: 52%;
+    margin-top: 5%;
+}
+
+.nav-link:hover {
+    border-bottom: 3px solid #024F65;
+    margin-top: -3px;
+}
+
+.about-bar h3 {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    margin-top: 30%;
+    text-align: center;
+}
+
+.bg {
+    border-radius: 20px;
+    background-color: rgb(36, 143, 206);
+}
